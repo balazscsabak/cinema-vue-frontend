@@ -128,7 +128,7 @@ export default {
 </script>
 
 <template>
-  <div class="mt-16">
+  <div class="mt-16 pb-16">
     <div class="container">
       <h1 class="h1 mb-10">Create <span>session</span></h1>
 
